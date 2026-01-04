@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently **Learning software engineering, solving problems, and working on backend projects**
 
-- 💬 Ask me about **Node.js, NestJs, ExpressJs, TypeScript MongoDB & PostgreSQL**
+- 💬 Ask me about **Node.js, NestJs, ExpressJs, TypeScript, MongoDB & PostgreSQL**
 
 - 📫 How to reach me **https://www.linkedin.com/in/youssef-qatry/**
 
